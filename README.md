@@ -33,9 +33,7 @@ Atuando diretamente com Automação Comercial.
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-<br/><br/>
-
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wand4rson&show_icons=true&theme=radical)](https://github.com/wand4rson/github-readme-stats)
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wand4rson&layout=compact&theme=radical)](https://github.com/wand4rson/github-readme-stats)
