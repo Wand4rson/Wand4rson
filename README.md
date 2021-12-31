@@ -35,5 +35,5 @@ Atuando diretamente com Automação Comercial.
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wand4rson&show_icons=true&theme=radical)](https://github.com/wand4rson/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wand4rson&layout=compact&theme=radical)](https://github.com/wand4rson/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wand4rson&show_icons=true&theme=dracula)](https://github.com/wand4rson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wand4rson&layout=compact&theme=dracula)](https://github.com/wand4rson/github-readme-stats)
